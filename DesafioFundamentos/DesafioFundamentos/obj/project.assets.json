@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\RiderProjects\\DesafioFundamentos\\DesafioFundamentos\\DesafioFundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Documents\\GitHub\\dio-trilha-csharp\\DesafioFundamentos\\DesafioFundamentos\\DesafioFundamentos.csproj",
       "projectName": "DesafioFundamentos",
-      "projectPath": "C:\\Users\\Dell\\RiderProjects\\DesafioFundamentos\\DesafioFundamentos\\DesafioFundamentos.csproj",
+      "projectPath": "C:\\Users\\Dell\\Documents\\GitHub\\dio-trilha-csharp\\DesafioFundamentos\\DesafioFundamentos\\DesafioFundamentos.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\RiderProjects\\DesafioFundamentos\\DesafioFundamentos\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Documents\\GitHub\\dio-trilha-csharp\\DesafioFundamentos\\DesafioFundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
