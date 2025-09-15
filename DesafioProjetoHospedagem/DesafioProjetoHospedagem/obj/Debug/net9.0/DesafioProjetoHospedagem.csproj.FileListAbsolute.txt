@@ -1,0 +1,14 @@
+C:\Users\Dell\RiderProjects\DesafioProjetoHospedagem\DesafioProjetoHospedagem\bin\Debug\net9.0\DesafioProjetoHospedagem.exe
+C:\Users\Dell\RiderProjects\DesafioProjetoHospedagem\DesafioProjetoHospedagem\bin\Debug\net9.0\DesafioProjetoHospedagem.deps.json
+C:\Users\Dell\RiderProjects\DesafioProjetoHospedagem\DesafioProjetoHospedagem\bin\Debug\net9.0\DesafioProjetoHospedagem.runtimeconfig.json
+C:\Users\Dell\RiderProjects\DesafioProjetoHospedagem\DesafioProjetoHospedagem\bin\Debug\net9.0\DesafioProjetoHospedagem.dll
+C:\Users\Dell\RiderProjects\DesafioProjetoHospedagem\DesafioProjetoHospedagem\bin\Debug\net9.0\DesafioProjetoHospedagem.pdb
+C:\Users\Dell\RiderProjects\DesafioProjetoHospedagem\DesafioProjetoHospedagem\obj\Debug\net9.0\DesafioProjetoHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\RiderProjects\DesafioProjetoHospedagem\DesafioProjetoHospedagem\obj\Debug\net9.0\DesafioProjetoHospedagem.AssemblyInfoInputs.cache
+C:\Users\Dell\RiderProjects\DesafioProjetoHospedagem\DesafioProjetoHospedagem\obj\Debug\net9.0\DesafioProjetoHospedagem.AssemblyInfo.cs
+C:\Users\Dell\RiderProjects\DesafioProjetoHospedagem\DesafioProjetoHospedagem\obj\Debug\net9.0\DesafioProjetoHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\DesafioProjetoHospedagem\DesafioProjetoHospedagem\obj\Debug\net9.0\DesafioProjetoHospedagem.dll
+C:\Users\Dell\RiderProjects\DesafioProjetoHospedagem\DesafioProjetoHospedagem\obj\Debug\net9.0\refint\DesafioProjetoHospedagem.dll
+C:\Users\Dell\RiderProjects\DesafioProjetoHospedagem\DesafioProjetoHospedagem\obj\Debug\net9.0\DesafioProjetoHospedagem.pdb
+C:\Users\Dell\RiderProjects\DesafioProjetoHospedagem\DesafioProjetoHospedagem\obj\Debug\net9.0\DesafioProjetoHospedagem.genruntimeconfig.cache
+C:\Users\Dell\RiderProjects\DesafioProjetoHospedagem\DesafioProjetoHospedagem\obj\Debug\net9.0\ref\DesafioProjetoHospedagem.dll
