@@ -1,0 +1,14 @@
+C:\Users\Dell\RiderProjects\Desafio-Celulares\Desafio-Celulares\bin\Debug\net9.0\Desafio-Celulares.exe
+C:\Users\Dell\RiderProjects\Desafio-Celulares\Desafio-Celulares\bin\Debug\net9.0\Desafio-Celulares.deps.json
+C:\Users\Dell\RiderProjects\Desafio-Celulares\Desafio-Celulares\bin\Debug\net9.0\Desafio-Celulares.runtimeconfig.json
+C:\Users\Dell\RiderProjects\Desafio-Celulares\Desafio-Celulares\bin\Debug\net9.0\Desafio-Celulares.dll
+C:\Users\Dell\RiderProjects\Desafio-Celulares\Desafio-Celulares\bin\Debug\net9.0\Desafio-Celulares.pdb
+C:\Users\Dell\RiderProjects\Desafio-Celulares\Desafio-Celulares\obj\Debug\net9.0\Desafio-Celulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\RiderProjects\Desafio-Celulares\Desafio-Celulares\obj\Debug\net9.0\Desafio-Celulares.AssemblyInfoInputs.cache
+C:\Users\Dell\RiderProjects\Desafio-Celulares\Desafio-Celulares\obj\Debug\net9.0\Desafio-Celulares.AssemblyInfo.cs
+C:\Users\Dell\RiderProjects\Desafio-Celulares\Desafio-Celulares\obj\Debug\net9.0\Desafio-Celulares.csproj.CoreCompileInputs.cache
+C:\Users\Dell\RiderProjects\Desafio-Celulares\Desafio-Celulares\obj\Debug\net9.0\Desafio-Celulares.dll
+C:\Users\Dell\RiderProjects\Desafio-Celulares\Desafio-Celulares\obj\Debug\net9.0\refint\Desafio-Celulares.dll
+C:\Users\Dell\RiderProjects\Desafio-Celulares\Desafio-Celulares\obj\Debug\net9.0\Desafio-Celulares.pdb
+C:\Users\Dell\RiderProjects\Desafio-Celulares\Desafio-Celulares\obj\Debug\net9.0\Desafio-Celulares.genruntimeconfig.cache
+C:\Users\Dell\RiderProjects\Desafio-Celulares\Desafio-Celulares\obj\Debug\net9.0\ref\Desafio-Celulares.dll
